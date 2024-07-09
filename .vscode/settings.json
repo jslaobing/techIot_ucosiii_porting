@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cpu.h": "c",
+        "gd32f30x_libopt.h": "c",
+        "stdio.h": "c"
+    }
+}

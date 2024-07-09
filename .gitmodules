@@ -1,0 +1,4 @@
+[submodule "uC-CPU"]
+	path = uC-CPU
+	url = https://github.com/weston-embedded/uC-CPU.git
+	branch = master
